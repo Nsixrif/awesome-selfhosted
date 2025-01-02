@@ -23,6 +23,7 @@
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
+  - [Pastebins](#pastebins)
   - [Photo and Video Galleries](#photo-and-video-galleries)
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
@@ -172,6 +173,13 @@
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
 
 
+### Pastebins
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
+
+
 ### Photo and Video Galleries
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -249,7 +257,6 @@
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/enterprise/data-center) - Enterprise-level Git solution similar to GitLab. `⊘ Proprietary` `Java`
 - [Buddy Enterprise](https://buddy.works/) - Git and Continuous Integration/Delivery Platform. `⊘ Proprietary` `Nodejs/Java`
 - [Crucible](https://www.atlassian.com/software/crucible) - Peer code review application. `⊘ Proprietary` `Java`
-- [Duet](https://duetapp.com/) - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `⊘ Proprietary` `PHP`
 - [Kanban Tool](https://kanbantool.com/kanban-tool-on-site) - Advanced Kanban boards with time tracking. `⊘ Proprietary` `Ruby`
 - [Kantree](https://kantree.io) - Work management and collaboration. `⊘ Proprietary` `Python`
 - [Solo](https://www.getsoloapp.com/) - Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](https://www.getsoloapp.com/demo/)) `⊘ Proprietary` `PHP`
@@ -270,6 +277,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
+- [Bugsink](https://www.bugsink.com/) - Real-time error tracking for your applications with all the details in one place. Easy setup with clear instructions included. ([Source Code](https://github.com/bugsink/bugsink/)) `⊘ Proprietary` `Python/Docker`
 - [Deskpro](https://www.deskpro.com/) - On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
 - [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Source Code](https://github.com/erxes/erxes)) `AGPL-3.0/Commons-Clause` `Docker/Nodejs`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
@@ -282,7 +290,6 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Anuko](https://github.com/anuko/timetracker) - Simple time and project tracking on a self-hosted basis. `SSPL-1.0` `PHP`
 - [Virtual TimeClock](https://www.redcort.com/timeclock) - Powerful, easy-to-use time tracking software. ([Demo](https://www.redcort.com/timeclock/free-timeclock-software-trial)) `⊘ Proprietary` `Unknown`
 
 
@@ -300,6 +307,7 @@
 - `Commons-Clause` - [Commons Clause License](https://commonsclause.com/)
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `Elastic-2.0` - [Elastic License 2.0](https://spdx.org/licenses/Elastic-2.0.html)
+- `NPOSL-3.0` - [Non-Profit Open Software License 3.0](https://spdx.org/licenses/NPOSL-3.0.html)
 - `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 - `⊘ Proprietary` - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
 
